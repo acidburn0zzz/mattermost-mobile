@@ -25,7 +25,7 @@
     "jail-monkey": "2.3.2",
     "mattermost-redux": "github:mattermost/mattermost-redux#21d68fc617f44cad43adc2f1d79169bf7245e3c0",
     "mime-db": "1.43.0",
-    "moment-timezone": "0.5.28",
+    "moment-timezone": "0.5.35",
     "prop-types": "15.7.2",
     "react": "16.13.0",
     "react-intl": "2.8.0",
